@@ -3,6 +3,11 @@
   "displayName": "SFText Extension Pack",
   "description": "Extensions for SFText",
   "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dotprologue/sftext-extension-pack.git"
+  },
+  "license": "MIT",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.86.0"
@@ -11,6 +16,8 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "publisher.extensionName"
+    "dotprologue.sftext-formatter",
+    "dotprologue.sftext-syntax",
+    "dotprologue.sftext-utility"
   ]
 }
