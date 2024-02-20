@@ -1,0 +1,16 @@
+{
+  "name": "sftext-extension-pack",
+  "displayName": "SFText Extension Pack",
+  "description": "Extensions for SFText",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName"
+  ]
+}
