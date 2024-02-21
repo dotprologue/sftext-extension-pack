@@ -1,6 +1,6 @@
 # SFText Extension Pack
 
-Extensions for SFTExt. SFText is a script format used in ScenarioFlow.
+Extensions for SFText. SFText is a script format used in ScenarioFlow.
 
 See [here](https://github.com/dotprologue/ScenarioFlow.git) for details about ScenarioFlow.
 
