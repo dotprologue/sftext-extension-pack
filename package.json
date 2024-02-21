@@ -3,6 +3,7 @@
   "displayName": "SFText Extension Pack",
   "description": "Extensions for SFText",
   "icon": "icon.png",
+  "homepage": "https://dotprologue.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/dotprologue/sftext-extension-pack.git"
