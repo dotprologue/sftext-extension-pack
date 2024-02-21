@@ -2,6 +2,7 @@
   "name": "sftext-extension-pack",
   "displayName": "SFText Extension Pack",
   "description": "Extensions for SFText",
+  "publisher": "dotprologue",
   "icon": "icon.png",
   "homepage": "https://dotprologue.com",
   "repository": {
